@@ -22,7 +22,7 @@
 #include <gnuradio/attributes.h>
 #include <cppunit/TestAssert.h>
 #include "qa_rtty_decode_ff.h"
-#include <rtty/rtty_decode_ff.h>
+#include <gnuradio/rtty/rtty_decode_ff.h>
 
 namespace gr {
   namespace rtty {

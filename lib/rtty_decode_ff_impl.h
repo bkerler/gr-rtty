@@ -21,7 +21,7 @@
 #ifndef INCLUDED_RTTY_RTTY_DECODE_FF_IMPL_H
 #define INCLUDED_RTTY_RTTY_DECODE_FF_IMPL_H
 
-#include <rtty/rtty_decode_ff.h>
+#include <gnuradio/rtty/rtty_decode_ff.h>
 
 namespace gr {
   namespace rtty {
